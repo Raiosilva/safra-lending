@@ -39,9 +39,9 @@ Fase 1:
 
 ----
 ## Instruções para Uso
-  * Pré-requisito
+  * Instalar o Node js incluindo o NPM
 
-      Instalação do Node.js incluindo o Node Package Manager;
+         npm install
 
   * Instalar o Angular CLI globalmente
 
@@ -55,5 +55,17 @@ Fase 1:
 
          cd [safra-lending]
          ng serve
-----
+         
+  * Para logar na aplicação utilize:
 
+        conta: 123456;
+
+        agencia: 123456;
+
+        senha: 123456;
+----
+## Direitos de Propriedade Industrial
+
+A imagem da logomarca utilizada na aplicação  possui os direitos reservados ao Banco Safra. 
+
+O ícone do Whatsapp tem os direitos reservados ao Facebook.
