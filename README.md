@@ -69,3 +69,6 @@ Fase 1:
 A imagem da logomarca utilizada na aplicação  possui os direitos reservados ao Banco Safra. 
 
 O ícone do Whatsapp tem os direitos reservados ao Facebook.
+
+## Compartilhamento dos arquivos HTML e CSS
+https://www.dropbox.com/s/708okdfnyyuuuaj/Safra%20-%20Telas%20Web.zip?dl=0
